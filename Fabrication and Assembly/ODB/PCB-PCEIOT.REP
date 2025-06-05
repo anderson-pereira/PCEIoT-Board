@@ -1,0 +1,106 @@
+*************************************************************
+FileName = PCB-PCEIOT.PcbDoc
+ODB++ directory structure
+*************************************************************
+Generated File : C:\Users\ander\AppData\Local\TempReleases\Snapshot\1\Assembly Fabrication\ODB\odb\steps\pcb\profile
+
+Generated File : C:\Users\ander\AppData\Local\TempReleases\Snapshot\1\Assembly Fabrication\ODB\odb\steps\pcb\stephdr
+
+Generated File : C:\Users\ander\AppData\Local\TempReleases\Snapshot\1\Assembly Fabrication\ODB\odb\steps\pcb\attrlist
+
+Generated File : C:\Users\ander\AppData\Local\TempReleases\Snapshot\1\Assembly Fabrication\ODB\odb\steps\pcb\layers\dielectric_1\features
+
+Generated File : C:\Users\ander\AppData\Local\TempReleases\Snapshot\1\Assembly Fabrication\ODB\odb\steps\pcb\layers\dielectric_1\attrlist
+
+Generated File : C:\Users\ander\AppData\Local\TempReleases\Snapshot\1\Assembly Fabrication\ODB\odb\steps\pcb\layers\core\features
+
+Generated File : C:\Users\ander\AppData\Local\TempReleases\Snapshot\1\Assembly Fabrication\ODB\odb\steps\pcb\layers\core\attrlist
+
+Generated File : C:\Users\ander\AppData\Local\TempReleases\Snapshot\1\Assembly Fabrication\ODB\odb\steps\pcb\layers\dielectric_2\features
+
+Generated File : C:\Users\ander\AppData\Local\TempReleases\Snapshot\1\Assembly Fabrication\ODB\odb\steps\pcb\layers\dielectric_2\attrlist
+
+Generated File : C:\Users\ander\AppData\Local\TempReleases\Snapshot\1\Assembly Fabrication\ODB\odb\steps\pcb\layers\drill_non-plated_bottom_copper-top_copper\features
+
+Generated File : C:\Users\ander\AppData\Local\TempReleases\Snapshot\1\Assembly Fabrication\ODB\odb\steps\pcb\layers\drill_non-plated_bottom_copper-top_copper\attrlist
+
+Generated File : C:\Users\ander\AppData\Local\TempReleases\Snapshot\1\Assembly Fabrication\ODB\odb\steps\pcb\layers\drill_non-plated_bottom_copper-top_copper\tools
+
+Generated File : C:\Users\ander\AppData\Local\TempReleases\Snapshot\1\Assembly Fabrication\ODB\odb\steps\pcb\layers\bottom_paste\features
+
+Generated File : C:\Users\ander\AppData\Local\TempReleases\Snapshot\1\Assembly Fabrication\ODB\odb\steps\pcb\layers\bottom_paste\attrlist
+
+Generated File : C:\Users\ander\AppData\Local\TempReleases\Snapshot\1\Assembly Fabrication\ODB\odb\steps\pcb\layers\top_ref\features
+
+Generated File : C:\Users\ander\AppData\Local\TempReleases\Snapshot\1\Assembly Fabrication\ODB\odb\steps\pcb\layers\top_ref\attrlist
+
+Generated File : C:\Users\ander\AppData\Local\TempReleases\Snapshot\1\Assembly Fabrication\ODB\odb\steps\pcb\layers\drill_plated_bottom_copper-top_copper\features
+
+Generated File : C:\Users\ander\AppData\Local\TempReleases\Snapshot\1\Assembly Fabrication\ODB\odb\steps\pcb\layers\drill_plated_bottom_copper-top_copper\attrlist
+
+Generated File : C:\Users\ander\AppData\Local\TempReleases\Snapshot\1\Assembly Fabrication\ODB\odb\steps\pcb\layers\drill_plated_bottom_copper-top_copper\tools
+
+Generated File : C:\Users\ander\AppData\Local\TempReleases\Snapshot\1\Assembly Fabrication\ODB\odb\steps\pcb\layers\top_paste\features
+
+Generated File : C:\Users\ander\AppData\Local\TempReleases\Snapshot\1\Assembly Fabrication\ODB\odb\steps\pcb\layers\top_paste\attrlist
+
+Generated File : C:\Users\ander\AppData\Local\TempReleases\Snapshot\1\Assembly Fabrication\ODB\odb\steps\pcb\layers\botton_ref\features
+
+Generated File : C:\Users\ander\AppData\Local\TempReleases\Snapshot\1\Assembly Fabrication\ODB\odb\steps\pcb\layers\botton_ref\attrlist
+
+Generated File : C:\Users\ander\AppData\Local\TempReleases\Snapshot\1\Assembly Fabrication\ODB\odb\steps\pcb\layers\bottom_copper\features
+
+Generated File : C:\Users\ander\AppData\Local\TempReleases\Snapshot\1\Assembly Fabrication\ODB\odb\steps\pcb\layers\bottom_copper\attrlist
+
+Generated File : C:\Users\ander\AppData\Local\TempReleases\Snapshot\1\Assembly Fabrication\ODB\odb\steps\pcb\layers\bottom_overlay\features
+
+Generated File : C:\Users\ander\AppData\Local\TempReleases\Snapshot\1\Assembly Fabrication\ODB\odb\steps\pcb\layers\bottom_overlay\attrlist
+
+Generated File : C:\Users\ander\AppData\Local\TempReleases\Snapshot\1\Assembly Fabrication\ODB\odb\steps\pcb\layers\top_mask\features
+
+Generated File : C:\Users\ander\AppData\Local\TempReleases\Snapshot\1\Assembly Fabrication\ODB\odb\steps\pcb\layers\top_mask\attrlist
+
+Generated File : C:\Users\ander\AppData\Local\TempReleases\Snapshot\1\Assembly Fabrication\ODB\odb\steps\pcb\layers\bottom_mask\features
+
+Generated File : C:\Users\ander\AppData\Local\TempReleases\Snapshot\1\Assembly Fabrication\ODB\odb\steps\pcb\layers\bottom_mask\attrlist
+
+Generated File : C:\Users\ander\AppData\Local\TempReleases\Snapshot\1\Assembly Fabrication\ODB\odb\steps\pcb\layers\top_copper\features
+
+Generated File : C:\Users\ander\AppData\Local\TempReleases\Snapshot\1\Assembly Fabrication\ODB\odb\steps\pcb\layers\top_copper\attrlist
+
+Generated File : C:\Users\ander\AppData\Local\TempReleases\Snapshot\1\Assembly Fabrication\ODB\odb\steps\pcb\layers\top_overlay\features
+
+Generated File : C:\Users\ander\AppData\Local\TempReleases\Snapshot\1\Assembly Fabrication\ODB\odb\steps\pcb\layers\top_overlay\attrlist
+
+Generated File : C:\Users\ander\AppData\Local\TempReleases\Snapshot\1\Assembly Fabrication\ODB\odb\steps\pcb\layers\comp_+_bot\features
+
+Generated File : C:\Users\ander\AppData\Local\TempReleases\Snapshot\1\Assembly Fabrication\ODB\odb\steps\pcb\layers\comp_+_bot\components
+
+Generated File : C:\Users\ander\AppData\Local\TempReleases\Snapshot\1\Assembly Fabrication\ODB\odb\steps\pcb\layers\comp_+_top\features
+
+Generated File : C:\Users\ander\AppData\Local\TempReleases\Snapshot\1\Assembly Fabrication\ODB\odb\steps\pcb\layers\comp_+_top\components
+
+Generated File : C:\Users\ander\AppData\Local\TempReleases\Snapshot\1\Assembly Fabrication\ODB\odb\steps\pcb\layers\rout\features
+
+Generated File : C:\Users\ander\AppData\Local\TempReleases\Snapshot\1\Assembly Fabrication\ODB\odb\steps\pcb\layers\rout\tools
+
+Generated File : C:\Users\ander\AppData\Local\TempReleases\Snapshot\1\Assembly Fabrication\ODB\odb\steps\pcb\eda\data
+
+Generated File : C:\Users\ander\AppData\Local\TempReleases\Snapshot\1\Assembly Fabrication\ODB\odb\matrix\matrix
+
+Generated File : C:\Users\ander\AppData\Local\TempReleases\Snapshot\1\Assembly Fabrication\ODB\odb\symbols\shapeef10a261\features
+
+Generated File : C:\Users\ander\AppData\Local\TempReleases\Snapshot\1\Assembly Fabrication\ODB\odb\symbols\shapeef10a261\features
+
+Generated File : C:\Users\ander\AppData\Local\TempReleases\Snapshot\1\Assembly Fabrication\ODB\odb\symbols\shapeef10a261\features
+
+Generated File : C:\Users\ander\AppData\Local\TempReleases\Snapshot\1\Assembly Fabrication\ODB\odb\symbols\shape210880ad\features
+
+Generated File : C:\Users\ander\AppData\Local\TempReleases\Snapshot\1\Assembly Fabrication\ODB\odb\symbols\shape2b25c1bd\features
+
+Generated File : C:\Users\ander\AppData\Local\TempReleases\Snapshot\1\Assembly Fabrication\ODB\odb\symbols\shape210880ad\features
+
+Generated File : C:\Users\ander\AppData\Local\TempReleases\Snapshot\1\Assembly Fabrication\ODB\odb\symbols\shape2b25c1bd\features
+
+Generated File : C:\Users\ander\AppData\Local\TempReleases\Snapshot\1\Assembly Fabrication\ODB\odb\symbols\shapeef10a261\features
+

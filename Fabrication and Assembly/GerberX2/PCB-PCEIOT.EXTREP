@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: PCB-PCEIOT.GBR   05/06/2025  10:53:37
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.gbr                Top Copper                              
+.gbr                Top Ref                                 
+.gbr                Botton Ref                              
+.gbr                Bottom Copper                           
+.gbr                Top Overlay                             
+.gbr                Bottom Overlay                          
+.gbr                Top Mask                                
+.gbr                Bottom Mask                             
+.gbr                Top Paste                               
+.gbr                Bottom Paste                            
+.gbr                Profile                                 
+.gbr                Non-plated through-hole drill file      
+.gbr                Plated through-hole drill file          
+------------------------------------------------------------------------------------------
