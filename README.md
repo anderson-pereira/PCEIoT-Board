@@ -2,7 +2,7 @@
 
 Este repositório contém os arquivos de projeto da placa **PCEIoT V1.1.0**, utilizada como ferramenta didática no curso **Projeto de Circuitos Eletrônicos para IoT**.
 
-![WhatsApp Image 2025-01-27 at 10 49 27](https://github.com/user-attachments/assets/015c403c-fad6-4be5-9b06-11dd493420ba)
+<img src="https://github.com/user-attachments/assets/015c403c-fad6-4be5-9b06-11dd493420ba" alt="Texto alternativo" width="400"/>
 
 ## Sobre o Curso: Projeto de Circuitos Eletrônicos para IoT
 
